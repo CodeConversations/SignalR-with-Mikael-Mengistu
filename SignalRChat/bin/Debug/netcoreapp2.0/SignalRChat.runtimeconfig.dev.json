@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mimengis.REDMOND\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mimengis.REDMOND\\.nuget\\packages",
+      "C:\\Users\\mimengis.REDMOND\\.dotnet\\NuGetFallbackFolder"
+    ]
+  }
+}
